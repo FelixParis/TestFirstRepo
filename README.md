@@ -1,5 +1,5 @@
 # TestFirstRepo
-usage php listJPG.php <path> <hideEmptyDirectory>
+usage php listJPG.php \<path\> \<hideEmptyDirectory\>
 
 example : "php listJPG.php /home"
 
